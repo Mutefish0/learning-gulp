@@ -1,0 +1,14 @@
+$base_color:#fefefe;
+
+body{
+    color:$base_color;
+    box-sizing:border-box;
+    .anim{
+        transition: all 1s ease;
+    }
+}
+
+h1,h2,h3{
+    margin: 0;
+    padding: 0;
+}
